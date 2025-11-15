@@ -53,7 +53,7 @@ This script supports three modes: standard heatmap, Gaussian-smoothed enhanced h
 `sh ~/yogloop/scripts/yogloop_strip.sh -l miniloop.bed -f yo_out -t 10`  
 
 <div align="center">  
-<img width="246" height="123" alt="bef_strip3" src="https://github.com/user-attachments/assets/c099d41d-fec8-4d27-ac17-c2287a3cd285" />  
+<img width="400" height="200" alt="bef_strip3" src="https://github.com/user-attachments/assets/c099d41d-fec8-4d27-ac17-c2287a3cd285" />  
 </div>
   
 
