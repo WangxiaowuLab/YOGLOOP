@@ -40,9 +40,16 @@ This script supports three modes: standard heatmap, Gaussian-smoothed enhanced h
 
 ## 7. Generate Loop Enrichment Heatmap (APA Plot)  
 `sh ~/yogloop/scripts/yogloop_APA.sh -l raw_loop.bedpe -f yo_out/A01.bedpe -o APA_plot`    
+  
+<img width="624" height="592" alt="text1" src="https://github.com/user-attachments/assets/464462ba-d184-413a-811c-1c795e243342" />
+
 
 ## 8. Generate Mini-Loop Enrichment Heatmap  
 `sh ~/yogloop/scripts/yogloop_strip.sh -l miniloop.bed -f yo_out -t 10`  
+  
+<img width="2383" height="1224" alt="bef_strip3" src="https://github.com/user-attachments/assets/c099d41d-fec8-4d27-ac17-c2287a3cd285" />  
+
+  
 
     
 
